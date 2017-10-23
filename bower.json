@@ -1,0 +1,22 @@
+{
+  "name": "moviefinder",
+  "description": "",
+  "main": "server.js",
+  "directory": "src/scripts/vendors",
+  "authors": [
+    "Matthew Hough"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Jquery": "*",
+    "bootstrap": "~3.0.0"
+  }
+}
